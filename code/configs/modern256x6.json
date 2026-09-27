@@ -1,0 +1,11 @@
+{
+  "vocab": 2048,
+  "width": 256,
+  "heads": 8,
+  "depth": 6,
+  "context": 256,
+  "hidden": 704,
+  "dropout": 0.1,
+  "cache_alpha": 0.0,
+  "cache_theta": 10.0
+}

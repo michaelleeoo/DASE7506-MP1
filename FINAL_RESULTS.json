@@ -1,0 +1,22 @@
+{
+  "selected_run": "modern256x8-d15-trigram-d050-s17",
+  "implementation": "student_v4",
+  "checkpoint_sha256": "0f457cf814324e0b84ed9531eb1244ac0b764d3283f761dbdf48c3f9a27d7285",
+  "validation_bpb": 1.4901514898799857,
+  "test_bpb": 1.508259977113347,
+  "baseline_test_bpb": 2.1012602707557906,
+  "previous_test_bpb": 1.646528076389622,
+  "test_relative_reduction_pct": 28.221172878748177,
+  "improvement_over_previous_bpb": 0.13826809927627504,
+  "baseline_seconds_runs": [6.652597900014371, 6.593770999927074, 7.0084559000097215],
+  "final_seconds_runs": [31.240287499967963, 30.834831099957228, 34.07691970001906],
+  "baseline_seconds_median": 6.652597900014371,
+  "final_seconds_median": 31.240287499967963,
+  "cpu_time_ratio": 4.695953065177813,
+  "peak_ram_gib": 1.8768806457519531,
+  "test_bpb_repeat_range": 0.0,
+  "inference_asset_mib": 55.46825885772705,
+  "all_limits_pass": true,
+  "selection_split": "validation",
+  "test_used_for_selection": false
+}
